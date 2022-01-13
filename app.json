@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/find2qw/sas",
+  "repository": "https://github.com/find2qw/sas",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
